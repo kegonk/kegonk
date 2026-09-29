@@ -44,7 +44,7 @@ Public case study for a private-source proof of concept.
 
 ---
 
-### [Exchange Signal Scanner](https://github.com/kegonk/scrinner_bot_telegram)
+### [Exchange Signal Scanner](https://github.com/kegonk/exchange-signal-scanner)
 
 Public Python project integrating multiple external market-data APIs.
 
@@ -68,7 +68,7 @@ Remote terminal-control utility with safety controls, tmux session handling, log
 
 ---
 
-### [MEXC Private WebSocket Event Logger](https://github.com/kegonk/logs_MEXC)
+### [MEXC Private WebSocket Event Logger](https://github.com/kegonk/mexc-websocket-event-logger)
 
 Focused integration utility for authenticated private WebSocket event monitoring.
 
